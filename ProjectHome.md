@@ -1,0 +1,1 @@
+Drop this around your existing render and the render or Javascript will run in the parent window.  This allows you to easily target your file upload forms to a child IFRAME to return control back to your page to display a progress bar, upload animation or other form of UI feedback.
